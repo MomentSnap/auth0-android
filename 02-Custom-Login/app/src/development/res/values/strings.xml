@@ -1,0 +1,5 @@
+<resources>
+    <string name="auth0_client_id">Dbb7un68vRuwdIeIaExvw3uBR09wwwfD</string>
+    <string name="auth0_domain">momentsnap-dev.auth0.com</string>
+    <string name="darden_connection">Darden-Dev</string>
+</resources>

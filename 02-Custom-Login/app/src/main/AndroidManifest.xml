@@ -19,6 +19,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name="com.auth0.android.provider.WebAuthActivity" />
+
         <activity android:name=".MainActivity" />
     </application>
 
